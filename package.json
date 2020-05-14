@@ -1,0 +1,20 @@
+{
+  "name": "mq-template-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wd-cli/mq-template-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wd-cli/mq-template-simple/issues"
+  },
+  "homepage": "https://github.com/wd-cli/mq-template-simple#readme"
+}
